@@ -1,5 +1,5 @@
 /*
-Author: Marco Valero
+
 File Title: points2.h
 
 Description: This class implements a "sequence" of coordinates (x, y) using C++11 semantics and the "big 5". (Copy Constructor, Copy Assignment Operator, Move Constructor, Move Assignment Operator and Destructor)
