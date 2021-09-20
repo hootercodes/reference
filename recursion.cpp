@@ -1,6 +1,3 @@
-//Define a recursive function, for a given array of integers, 
-//return the number of elements that are multiple of 3.
-
 #include <stdio.h>
 
 int findMultiple(int A[], int n)
