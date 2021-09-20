@@ -1,7 +1,3 @@
-// Define a function, for given a list of integers,
-// return the sum of all elements that are a multiple of 5. 
-// You may use list in C++ STL.
-
 #include<bits/stdc++.h>
 using namespace std;
 
